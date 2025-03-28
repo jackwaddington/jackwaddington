@@ -2,7 +2,7 @@
 
 Welcome to my Github :-D
 
-I am interested in data - how we record it, store it, make sums from it and present it. And is it even important anyways?!
+I am interested in data - how we record it, store it, process it and present it. And is it even important anyways?!
 
 I am interested by the whole infrastructure to to perform this - the network, the storage, the method of presentation and such.
 
