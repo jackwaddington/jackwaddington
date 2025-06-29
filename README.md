@@ -6,8 +6,6 @@ I am interested in data - how we record it, store it, process it and present it.
 
 I am interested by the whole infrastructure to to perform this - the network, the storage, how it is transittied, how it is recorded and how it is visualised.
 
-Join me on my adventure!
-
 <!--
 **jackwaddington/jackwaddington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
