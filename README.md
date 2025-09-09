@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my hand-crafted artisanal Github :-D
+Welcome to my hand-crafted, artisanal Github.
 
 I am interested in data - how we record it, store it, process it and present it. And is a piece of data even relevant?!
 
