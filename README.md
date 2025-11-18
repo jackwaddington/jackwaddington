@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 👋
 
 Welcome to my hand-crafted, artisanal Github.
 
