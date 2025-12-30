@@ -4,9 +4,7 @@ Welcome to my hand-crafted, artisanal Github.
 
 I am interested in data - how we record it, store it, process it and present it. And is a piece of data even relevant?!
 
-What is data? Is it a picture, a measurement - or how do we map feelings to points?!
-
-I am interested by the whole infrastructure to to perform this - the network, the storage, how it is transittied, how it is recorded and how it is visualised.
+I am interested by the whole infrastructure to perform this - the network, the storage, how it is transittied, how it is recorded and how it is visualised.
 
 <!--
 **jackwaddington/jackwaddington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
