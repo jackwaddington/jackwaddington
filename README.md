@@ -18,6 +18,10 @@ My hobbies are swimming, computing and going to [Meetups](https://www.meetup.com
 
 ## How I build
 
+
+# !!UNDER CONSTRUCTION!!
+
+
 We build projects on top of infrastructure, using Project Management to push them forward and then test they sattisfy the project 'brief'.
 
 - Infrastructure
