@@ -1,15 +1,17 @@
 ## Howdy 👋
 
-Welcome to my hand-crafted, artisanal Github! Here I can show my solutions and share how I built them.
+Welcome to my hand-crafted, artisanal Github!
 
-I'm interested in data and infrastructure - how we record, store, process and present information, and whether it's even relevant. I'm equally fascinated by the systems that make this possible: networks, storage, transmission, visualisation, and monitoring.
+Here I would like to share some of my projects and how I built them.
+
+I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And to check that we are infact recording that information, we did store it and etc.
 
 
 ## whoami
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki). My background is in Business & Administration, Photography and Operations Management.
 
-Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki and while I am job searching I'm really excited to be able to build as many of my own projects as time allows.
+Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows.
 
 My hobbies are swimming, computing and going to [Meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998).
 
@@ -27,5 +29,7 @@ We build projects on top of infrastructure, using Project Management to push the
 - Projects
   - [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser)
   - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline)
-  - Pass Me .fr
+  - PassMe.fr
   - NAS Police
+ 
+
