@@ -4,9 +4,7 @@ Welcome to my hand-crafted, artisanal Github!
 
 Here I would like to share some of my projects and how I built them.
 
-I'm interested in data and infrastructure - how we record, transmit, store, process and present information.
-
-And to check that we are infact recording that information, did we actually store it & etc...
+I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And to check that we are infact recording that information, did we actually store it & etc with observability.
 
 
 ## whoami
