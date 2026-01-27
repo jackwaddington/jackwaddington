@@ -35,11 +35,7 @@ My solutions are built on top of infrastructure, using Project Management to pus
 
 - Infrastructure
   - [jWorld](https://github.com/jackwaddington/jWorld)
-    - Pi0Cam
-    - OpenBSD firewall
-    - Proxmox
-    - MQTT
-- Solutions
+- Projects
   - [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser)
   - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline)
   - PassMe.fr
