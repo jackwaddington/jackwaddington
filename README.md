@@ -4,7 +4,18 @@ Welcome to my hand-crafted, artisanal Github!
 
 Here I would like to share some of my projects and how I built them.
 
-I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And to check that we are infact recording that information, did we actually store it & etc with observability.
+I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
+
+
+
+## TLDR
+
+| Project | Description |
+|---------|-------------|
+| [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) | *Analyse Nordea .csv from a joint bank account and create a report. R, Python* |
+| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) | *Daily timelapse, from sunrise to sunset, uploaded to YouTube, automatically. Python, C++* |
+| Passme.fr | *Push one button to type a lot of text. C++, Pi Pico, [USB HID](https://en.wikipedia.org/wiki/USB_human_interface_device_class), eInk* |
+| NAS Police | *Keep an eye on what is happing in my NAS* |
 
 
 ## whoami
@@ -13,9 +24,11 @@ My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I
 
 My professional background is in Business & Administration, Visual Communication (Photography) and Operations Management.
 
-I recently completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows.
+I recently completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki.
 
-My hobbies are swimming, parenting and going to [Meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998).
+While I search for work I'm really excited to be able to build as many of my own projects as time allows! :-D
+
+My hobbies include swimming, parenting and going to [Meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998).
 
 
 ## How I build
@@ -39,4 +52,4 @@ My solutions are built on top of infrastructure, using Project Management to pus
 
 ## Call me any time
 
-Happy to talk about my projects or yours, and I'm ready to work!
+Happy to talk about my projects - or yours - and I'm ready to work!
