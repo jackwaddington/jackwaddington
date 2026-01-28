@@ -24,7 +24,7 @@ I'm interested in data and infrastructure - how we record, transmit, store, proc
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki). My professional background is in Business & Administration, Visual Communication (Photography) and Operations Management.
 
-I recently completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows! :-D
+I recently completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows.
 
 My hobbies include swimming, parenting and going to [Meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998).
 
