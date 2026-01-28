@@ -10,7 +10,7 @@ I'm interested in data and infrastructure - how we record, transmit, store, proc
 
 
 
-## TLDR
+## TL;DR
 
 | Project | Description |
 |---------|-------------|
