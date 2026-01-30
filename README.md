@@ -2,7 +2,9 @@
 
 ## Howdy 👋
 
-Welcome to Github!
+Welcome to Github! Here I am sharing some of my projects and how I built them.
+
+I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
 
 
 ## TL;DR
