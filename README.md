@@ -2,12 +2,7 @@
 
 ## Howdy 👋
 
-Welcome to my hand-crafted, artisanal Github!
-
-Here I would like to share some of my projects and how I built them.
-
-I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
-
+Welcome to Github!
 
 
 ## TL;DR
@@ -23,6 +18,8 @@ I'm interested in data and infrastructure - how we record, transmit, store, proc
 ## whoami
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki). My professional background is in Business & Administration, Visual Communication (Photography) and Operations Management.
+
+I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
 
 I recently completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows.
 
