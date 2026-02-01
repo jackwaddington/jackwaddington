@@ -2,7 +2,7 @@
 
 Welcome to Github!
 
-Here I can share some of my projects and the thoughts around it.
+Here I can share some of my projects and the thoughts around them.
 
 ## TL;DR
 
