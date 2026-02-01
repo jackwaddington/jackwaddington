@@ -1,11 +1,8 @@
-!! under construction !!
-
 ## Howdy 👋
 
 Welcome to Github!
 
-I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
-
+Here I can share some of my projects and the thoughts around it.
 
 ## TL;DR
 
@@ -30,9 +27,9 @@ My hobbies include swimming, parenting and going to [Meetups](https://www.meetup
 
 ## How I build
 
-I like the idea of _'What problem are we trying to solve?'_. This helps me to know when something is done.
+I like the idea of _'What problem are we trying to solve?'_.
 
-My solutions are built on top of infrastructure, using Project Management to push them forward and then test they satisfy the project 'brief'.
+I can then express this ontop of infrastructure, using Project Management to push them forward and testing to check they satisfy the solution.
 
 - Infrastructure
   - [jWorld](https://github.com/jackwaddington/jWorld)
