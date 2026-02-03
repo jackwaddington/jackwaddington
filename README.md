@@ -39,7 +39,7 @@ I can then express this ontop of infrastructure, using Project Management to pus
 - Projects
   - [Joint Account Analyser as PDF](https://github.com/jackwaddington/joint-account-analyser)
   - [Joint Account Analyser as Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/)
-  - [Smart Timelapse Pipeline LoneWolf](https://github.com/jackwaddington/smart-timelapse-pipeline)
+  - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline)
  
 
 ## Call me any time
