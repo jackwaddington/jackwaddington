@@ -2,23 +2,24 @@
 
 Welcome to Github!
 
-Here I can share some of my projects and the thoughts around them.
+Here I would like to share some of my projects and the thoughts around them.
+
+I'm interested in data and infrastructure - how we record, transmit, store, process and present data. Are we finding the rigth data? And if we think we are getting it - are we really?
 
 ## TL;DR
 
 | Project | Description |
 |---------|-------------|
-| [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) | *Analyse Nordea .csv from a joint bank account and create a report. R, Python* |
-| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) | *Daily timelapse, from sunrise to sunset, uploaded to YouTube, automatically. Python, C++* |
-| Passme.fr | *Push one button to type a lot of text. C++, Pi Pico, [USB HID](https://en.wikipedia.org/wiki/USB_human_interface_device_class), eInk* |
-| NAS Police | *Keep an eye on what is happing in my NAS* |
+| [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) as [PDF](https://github.com/jackwaddington/joint-account-analyser/blob/main/example_joint_account_report.pdf) | *Analyse Nordea .csv from a joint bank account and create a report. R, Python* |
+| [Joint Account Analyser](https://github.com/jackwaddington/online_private_bank_statement_analyser) as [Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/) | *As above but on Web technologies with mindblowing features. TypeScript, React* |
+| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | *Daily timelapse, from sunrise to sunset, uploaded automatically to YouTube  - from one device. Python, C++* |
+| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [under construction]  | *Containerising elements of the above to make magic. Python, Docker, K3S* |
+
 
 
 ## whoami
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki).
-
-I'm interested in data and infrastructure - how we record, transmit, store, process and present information. And how to be confident we are infact recording that information & so forth.
 
 My professional background is in Business & Administration, Visual Communication (Photography) and Operations Management.
 
@@ -36,8 +37,10 @@ I can then express this ontop of infrastructure, using Project Management to pus
 - Infrastructure
   - [jWorld](https://github.com/jackwaddington/jWorld)
 - Projects
-  - [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser)
-  - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline)
+  - [Joint Account Analyser as PDF](https://github.com/jackwaddington/joint-account-analyser)
+  - [Joint Account Analyser as Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/)
+  - [Smart Timelapse Pipeline LoneWolf](https://github.com/jackwaddington/smart-timelapse-pipeline)
+  - [Smart Timelapse Pipeline Decoupled](https://github.com/jackwaddington/smart-timelapse-pipeline)
   - PassMe.fr
   - NAS Police
  
