@@ -2,7 +2,7 @@
 
 Welcome to Github!
 
-Here I would like to share some of my projects and the thoughts around them.
+Here I am sharing some of my projects and the thoughts around them.
 
 I'm interested in data and infrastructure - how we record, transmit, store, process and present data. Are we finding the rigth data? And if we think we are getting it - are we really?
 
