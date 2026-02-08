@@ -37,10 +37,10 @@ I can then express this ontop of infrastructure, using Project Management to pus
 - Infrastructure
   - [OpenBSD](https://github.com/jackwaddington/OpenBSD) — Router & firewall (Raspberry Pi 4)
   - [K3s](https://github.com/jackwaddington/k3s) — Kubernetes cluster (3 nodes)
+  - [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) — Pi Zero W timelapse camera
+- DevOps
   - [homelab-gitops](https://github.com/jackwaddington/homelab-gitops) — ArgoCD deployments
   - [jWorld-observability](https://github.com/jackwaddington/jWorld-observability) — Prometheus + Grafana monitoring
-  - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) — Pi 5 camera
-  - [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) — Pi Zero W timelapse camera
 - Projects
   - [Joint Account Analyser as PDF](https://github.com/jackwaddington/joint-account-analyser)
   - [Joint Account Analyser as Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/)
