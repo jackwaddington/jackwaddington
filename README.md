@@ -42,9 +42,9 @@ I can then express this ontop of infrastructure, using Project Management to pus
   - [homelab-gitops](https://github.com/jackwaddington/homelab-gitops) — ArgoCD deployments
   - [jWorld-observability](https://github.com/jackwaddington/jWorld-observability) — Prometheus + Grafana monitoring
 - Projects
-  - [Joint Account Analyser as PDF](https://github.com/jackwaddington/joint-account-analyser)
-  - [Joint Account Analyser as Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/)
-  - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline)
+  - [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) as [PDF](https://github.com/jackwaddington/joint-account-analyser/blob/main/example_joint_account_report.pdf)
+  - [Joint Account Analyser](https://github.com/jackwaddington/online_private_bank_statement_analyser) as [Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/)
+  - [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam)
  
 
 ## Call me any time
