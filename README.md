@@ -21,18 +21,20 @@ I'm interested in data and infrastructure - how we record, transmit, store, proc
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki).
 
-My professional background is in Business & Administration, Visual Communication (Photography) and Operations Management.
+I studied Visual Communication at [Edinburgh College of Art](https://www.eca.ed.ac.uk/) - where I learned that the medium serves the message. What matters is what we're trying to communicate, not the tool we use to do it.
 
-Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. While I search for work I'm really excited to be able to build as many of my own projects as time allows.
+That thinking carried through ten years in operations management, where I built reporting systems, deployed POS infrastructure, and learned that getting the right data to the right people is what makes good decisions possible.
 
-My hobbies include swimming, parenting and going to [Meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998).
+Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. Code is just the latest medium.
+
+In my spare time I go to [tech meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998), read books about computing, and play with my kids.
 
 
 ## How I build
 
-I like the idea of _'What problem are we trying to solve?'_.
+_'What problem are we trying to solve?'_
 
-I can then express this ontop of infrastructure, using Project Management to push them forward and testing to check they satisfy the solution.
+That question comes from art school, but it works everywhere. I build on top of infrastructure, use project management to push things forward, and testing to check they satisfy the solution.
 
 - Infrastructure
   - [OpenBSD](https://github.com/jackwaddington/OpenBSD) — Router & firewall (Raspberry Pi 4)
@@ -49,4 +51,4 @@ I can then express this ontop of infrastructure, using Project Management to pus
 
 ## Call me any time
 
-Happy to talk about my projects - or yours - and I'm ready to work!
+Happy to talk about my projects - or yours.
