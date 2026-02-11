@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-I find myself drawn to data and infrastructure - how we record, transmit, store, process and present data. Are we finding the right data? And if we think we are getting it - are we really?
+I find myself drawn to data and infrastructure - how we record, transmit, store, process and present data. Are we finding the right data? And if we think we are - are we really and are you sure?
 
 In practice, that means networking, observability, pipelines and visualisation — and the testing to trust them.
 
@@ -23,9 +23,7 @@ I studied Visual Communication at [Edinburgh College of Art](https://www.eca.ed.
 
 That thinking carried through many years in operations management, where I built reporting systems, deployed POS infrastructure, and learned that getting the right data to the right people is what makes good decisions possible.
 
-Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. Code is just the latest medium — albeit one with an amazing ability to express business logic.
-
-In my 'free' time I enjoy going to [tech meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998), reading books about computing, and playing with my kids.
+Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. As a medium, code has the ability to express complicated logic.
 
 
 ## How I build
@@ -49,4 +47,4 @@ That question comes from art school, but it works everywhere. I build on top of 
 
 ## Call me any time
 
-Happy to talk about my projects - or yours.
+Happy to talk about my projects and yours.
