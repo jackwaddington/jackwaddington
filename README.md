@@ -1,10 +1,8 @@
 ## Howdy 👋
 
-Welcome to Github!
+I find myself drawn to data and infrastructure - how we record, transmit, store, process and present data. Are we finding the right data? And if we think we are getting it - are we really?
 
-Here I am sharing some of my projects and the thoughts around them.
-
-I'm interested in data and infrastructure - how we record, transmit, store, process and present data. Are we finding the rigth data? And if we think we are getting it - are we really?
+In practice, that means networking, observability, pipelines and visualisation — and the testing to trust them.
 
 ## TL;DR
 
@@ -21,13 +19,13 @@ I'm interested in data and infrastructure - how we record, transmit, store, proc
 
 My name is [Jack Waddington](https://www.linkedin.com/in/jack-waddington/) and I live in [Helsinki](https://en.wikipedia.org/wiki/Helsinki).
 
-I studied Visual Communication at [Edinburgh College of Art](https://www.eca.ed.ac.uk/) - where I learned that the medium serves the message. What matters is what we're trying to communicate, not the tool we use to do it.
+I studied Visual Communication at [Edinburgh College of Art](https://www.eca.ed.ac.uk/) under [David Williams](https://www.youtube.com/@all-in-all1746/videos) - where I learned that the medium serves the message. What matters is what we're trying to communicate, not the tool we use to do it.
 
-That thinking carried through ten years in operations management, where I built reporting systems, deployed POS infrastructure, and learned that getting the right data to the right people is what makes good decisions possible.
+That thinking carried through many years in operations management, where I built reporting systems, deployed POS infrastructure, and learned that getting the right data to the right people is what makes good decisions possible.
 
-Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. Code is just the latest medium.
+Recently I completed my studies in Software Engineering at [Hive](https://www.hive.fi/), Helsinki. Code is just the latest medium — albeit one with an amazing ability to express business logic.
 
-In my spare time I go to [tech meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998), read books about computing, and play with my kids.
+In my 'free' time I enjoy going to [tech meetups](https://www.meetup.com/find/?location=fi--helsinki&source=EVENTS&categoryId=-998), reading books about computing, and playing with my kids.
 
 
 ## How I build
