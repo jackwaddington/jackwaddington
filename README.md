@@ -2,7 +2,7 @@
 
 How can we record, transmit, store, process, validate and present data?
 
-Here I would like to share some repos as I explore technologies.
+Here I would like to share some of my solutions as I explore technologies.
 
 | | |
 |---|---|
@@ -12,14 +12,14 @@ Here I would like to share some repos as I explore technologies.
 | [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | Daily sunrise-to-sunset timelapse, automatic upload. Python, C++ |
 | [Moped companion](https://github.com/jackwaddington/moped) | Django API for Google Forms data. With notifications for servicing. Under construction |
 | **DevOps** | |
-| [homelab-gitops](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments |
-| [jWorld-observability](https://github.com/jackwaddington/jWorld-observability) | Prometheus + Grafana monitoring |
+| [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments |
+| [Observability](https://github.com/jackwaddington/jWorld-observability) | Prometheus + Grafana monitoring |
 | **Infrastructure** | |
 | [OpenBSD](https://github.com/jackwaddington/OpenBSD) | Router & firewall (Raspberry Pi 4) |
 | [K3s](https://github.com/jackwaddington/k3s) | Kubernetes cluster (3 nodes) |
-| [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Pi Zero W timelapse camera |
+| [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Raspberry Pi Zero W with camera |
 | **Tools** | |
-| [repo-registry](https://github.com/jackwaddington/repo-registry) | Central registry for managing repos, syncing and mapping connections |
+| [Repo-registry](https://github.com/jackwaddington/repo-reg) | Central registry for managing repos, syncing and mapping connections |
 
 
 ## whoami
