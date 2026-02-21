@@ -11,7 +11,7 @@ Most recently I've been blown away by:
 
 I have done such tasks manually, and studied photography - so may I be so bold as to suggest this is the new camera - it liberates us to make more pictures quicker, or the dishwasher that liberates us to do more work.
 
-I'm exploring these with [discord-philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [discord-intelligence](https://github.com/jackwaddington/discord_intelligence) — analysing it.
+I'm exploring these with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — analysing it.
 
 And as with the dawn of photography - the ethical debates are fascinating. As with 3D printing - a little scary.
 
@@ -24,6 +24,8 @@ Join me as I explore technologies through building my solutions!
 | [Joint Account Analyser](https://github.com/jackwaddington/online_private_bank_statement_analyser) as [Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/) | As above but web-based. TypeScript, React |
 | [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | Daily sunrise-to-sunset timelapse, automatic publish to YouTube. Python, C++ |
 | [Moped API](https://github.com/jackwaddington/moped) | Google Forms -> Django API pipeline for moped data based on refilling fuel. With notifications for servicing. |
+| [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server |
+| [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content |
 | **DevOps** | |
 | [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments |
 | [Observability](https://github.com/jackwaddington/jWorld-observability) | Prometheus + Grafana monitoring |
@@ -31,13 +33,9 @@ Join me as I explore technologies through building my solutions!
 | [OpenBSD](https://github.com/jackwaddington/OpenBSD) | Router & firewall (Raspberry Pi 4) |
 | [K3s](https://github.com/jackwaddington/k3s) | Kubernetes cluster (3 nodes) |
 | [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Raspberry Pi Zero W with camera |
-| **IoT & Edge** | |
-| [edge-net](https://github.com/jackwaddington/edge-net) | Self-contained WiFi network of Pi nodes. OpenBSD router, pf firewall, MQTT message bus, MicroPython |
-| **AI Agents** | |
-| [discord-philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server |
-| [discord-intelligence](https://github.com/jackwaddington/discord_intelligence) | Text analysis and summarisation of LLM-generated debate content |
+| [Edge-NET](https://github.com/jackwaddington/edge-net) | Self-contained WiFi network of Pi nodes. OpenBSD router, pf firewall, MQTT message bus, MicroPython |
 | **Tools** | |
-| [Repo-registry](https://github.com/jackwaddington/repo-reg) | Central registry for managing repos, syncing and mapping connections |
+| [Repo Registry](https://github.com/jackwaddington/repo-reg) | Central registry for managing repos, syncing and mapping connections |
 
 ## whoami
 
