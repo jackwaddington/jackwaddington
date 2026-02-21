@@ -1,15 +1,15 @@
 # Howdy 👋
 
-While I am seek employment I wish to purdge from my head the projects that have been pestering me throughout my studies.
+While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
 
-My passion seems to lie in asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
+I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
 
 Most recently I've been blown away by:
 - the power of modern computers (2025->)
 - text-based data analysis by machine
 - text generation by a machine
 
-Having done such textual tasks manually - and studying photography - may I be so bold as to suggest this is the new camera - it liberates us to make more pictures quicker.
+Having done such textual tasks manually - and studying photography - may I be so bold as to suggest this feels like a new medium - it liberates us to make more quicker.
 
 I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
 
