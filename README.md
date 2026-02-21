@@ -5,7 +5,7 @@ While I seek employment this is a great time to get all these projects out of my
 I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
 
 Most recently I've been blown away by:
-- the power of modern computers (2025->)
+- the power of modern computers (2025-> )
 - text-based data analysis by machine
 - text generation by a machine
 
