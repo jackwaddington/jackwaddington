@@ -13,9 +13,9 @@ I have done such tasks manually, and studied photography - so may I be so bold a
 
 I'm exploring these with [discord-philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [discord-intelligence](https://github.com/jackwaddington/discord_intelligence) — analysing it.
 
-And aswith the dawn of photography - the ethical debates are fascinating. Aswith 3D printing - a little scary.
+And as with the dawn of photography - the ethical debates are fascinating. As with 3D printing - a little scary.
 
-Please find below more of my solutions as I explore technologies:
+Join me as I explore technologies through building my solutions!
 
 | | |
 | - | - |
