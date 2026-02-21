@@ -9,11 +9,7 @@ Most recently I've been blown away by:
 - text-based data analysis by machine
 - text generation by a machine
 
-Having done such textual tasks manually - and studying photography - may I be so bold as to suggest this feels like a new medium - it liberates us to make more quicker.
-
 I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
-
-As with the advent of photography - the ethical debates are fascinating. As with 3D printing - a little scary.
 
 Join me as I explore technologies through building my solutions!
 
