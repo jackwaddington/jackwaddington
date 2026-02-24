@@ -1,6 +1,6 @@
 # Howdy 👋
 
-While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
+While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'! Right now I'm working with [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) to help me apply — and to experiment with AI and Airflow.
 
 I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
 
@@ -22,11 +22,11 @@ Join me as I explore technologies through building my solutions!
 | [Moped API](https://github.com/jackwaddington/moped) | Google Forms -> Django API pipeline for moped data based on refilling fuel. With notifications for servicing. |
 | [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server |
 | [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content |
+| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline using Airflow |
 | **DevOps** | |
 | [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments |
 | [Observability](https://github.com/jackwaddington/jWorld-observability) | Prometheus + Grafana monitoring |
 | **Infrastructure** | |
-| [OpenBSD](https://github.com/jackwaddington/OpenBSD) | Router & firewall (Raspberry Pi 4) |
 | [K3s](https://github.com/jackwaddington/k3s) | Kubernetes cluster (3 nodes) |
 | [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Raspberry Pi Zero W with camera |
 | [Edge-NET](https://github.com/jackwaddington/edge-net) | Self-contained WiFi network of Pi nodes. OpenBSD router, pf firewall, MQTT message bus, MicroPython |
