@@ -13,25 +13,25 @@ I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwadd
 
 Join me as I explore technologies through building my solutions!
 
-| | |
-| - | - |
-| **Projects** | |
-| [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) as [PDF](https://github.com/jackwaddington/joint-account-analyser/blob/main/example_joint_account_report.pdf) | Analyse joint bank account .csv and create a report. R, Python |
-| [Joint Account Analyser](https://github.com/jackwaddington/online_private_bank_statement_analyser) as [Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/) | As above but web-based. TypeScript, React |
-| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | Daily sunrise-to-sunset timelapse, automatic publish to YouTube. Python, C++ |
-| [Moped API](https://github.com/jackwaddington/moped) | Google Forms -> Django API pipeline for moped data based on refilling fuel. With notifications for servicing. |
-| [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server |
-| [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content |
-| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline using Airflow |
-| **DevOps** | |
-| [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments |
-| [Observability](https://github.com/jackwaddington/jWorld-observability) | Prometheus + Grafana monitoring |
-| **Infrastructure** | |
-| [K3s](https://github.com/jackwaddington/k3s) | Kubernetes cluster (3 nodes) |
-| [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Raspberry Pi Zero W with camera |
-| [Edge-NET](https://github.com/jackwaddington/edge-net) | Self-contained WiFi network of Pi nodes. OpenBSD router, pf firewall, MQTT message bus, MicroPython |
-| **Tools** | |
-| [Repo Registry](https://github.com/jackwaddington/repo-reg) | Central registry for managing repos, syncing and mapping connections |
+| | | |
+| - | - | - |
+| **Projects** | | |
+| [Joint Account Analyser](https://github.com/jackwaddington/joint-account-analyser) as [PDF](https://github.com/jackwaddington/joint-account-analyser/blob/main/example_joint_account_report.pdf) | Analyse joint bank account .csv and create a report | R, Python |
+| [Joint Account Analyser](https://github.com/jackwaddington/online_private_bank_statement_analyser) as [Web](https://jackwaddington.github.io/online_private_bank_statement_analyser/) | As above but web-based | TypeScript, React |
+| [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | Daily sunrise-to-sunset timelapse, automatic publish to YouTube | C++, Python, Cron, Rsync |
+| [Moped API](https://github.com/jackwaddington/moped) | Google Forms → Django API pipeline for moped fuel data, with service notifications | Python, Django |
+| [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server | Python, Ollama, Discord API |
+| [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content | Python, Apache Airflow, PostgreSQL, Docker |
+| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline | Python, Apache Airflow, PostgreSQL, FastAPI, Anthropic API, Selenium |
+| **DevOps** | | |
+| [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments | ArgoCD, Bash |
+| [Observability](https://github.com/jackwaddington/jWorld-observability) | Cluster monitoring | Prometheus, Grafana |
+| **Infrastructure** | | |
+| [K3s](https://github.com/jackwaddington/k3s) | Kubernetes cluster (3 nodes) | K3s |
+| [Pi0Cam](https://github.com/jackwaddington/Pi0Cam) | Raspberry Pi Zero W with camera | Python |
+| [Edge-NET](https://github.com/jackwaddington/edge-net) | Self-contained WiFi network of Pi nodes | OpenBSD, pf, DHCP, MQTT, MicroPython, Python, C++ |
+| **Tools** | | |
+| [Repo Registry](https://github.com/jackwaddington/repo-reg) | Central registry for managing repos, syncing and mapping connections | Bash |
 
 ## whoami
 
