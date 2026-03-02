@@ -1,6 +1,8 @@
 # Howdy 👋
 
-While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'! Right now I'm working with [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) to help me apply — and to experiment with AI and Airflow.
+While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
+
+I'm really excited to get a place at [Dash](https://www.dash.design/) at the end of this month (March, 2026) - I think it's a multidisciplinary hackathon, representing design, tech and business. Very interesting combination and I'm excited to work with different disiplines, with their different priorities.
 
 I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
 
@@ -22,7 +24,7 @@ Join me as I explore technologies through building my solutions!
 | [Moped API](https://github.com/jackwaddington/moped) | Google Forms → Django API pipeline for moped fuel data, with service notifications | Python, Django |
 | [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server | Python, Ollama, Discord API |
 | [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content | Python, Apache Airflow, PostgreSQL, Docker |
-| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline | Python, Apache Airflow, PostgreSQL, FastAPI, Anthropic API, Selenium |
+| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline concept | Python, Apache Airflow, PostgreSQL, FastAPI, Anthropic API, Selenium |
 | **DevOps** | | |
 | [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments | ArgoCD, Bash |
 | [Observability](https://github.com/jackwaddington/jWorld-observability) | Cluster monitoring | Prometheus, Grafana |
