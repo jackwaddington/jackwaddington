@@ -13,6 +13,8 @@ Most recently I've been blown away by:
 
 I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
 
+Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM.
+
 Join me as I explore technologies through building my solutions!
 
 | | | |
