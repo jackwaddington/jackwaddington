@@ -2,6 +2,8 @@
 
 While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
 
+Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM.
+
 I'm really excited to get a place at [Dash](https://www.dash.design/) at the end of this month (March, 2026) - I think it's a multidisciplinary hackathon, representing design, tech and business. Very interesting combination and I'm excited to work with different disiplines, with their different priorities.
 
 I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
@@ -12,8 +14,6 @@ Most recently I've been blown away by:
 - text generation by a machine
 
 I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
-
-Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM.
 
 Join me as I explore technologies through building my solutions!
 
