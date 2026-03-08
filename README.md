@@ -27,7 +27,6 @@ Join me as I explore technologies through building my solutions!
 | [Python School](https://github.com/jackwaddington/python_school) | Terminal simulation of a school — OOP model driven by a local LLM. Generates courses, students, exams and newsletters | Python, Ollama |
 | [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server | Python, Ollama, Discord API |
 | [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content | Python, Apache Airflow, PostgreSQL, Docker |
-| [Job_Snatcher](https://github.com/jackwaddington/job_snatcher) | AI-assisted job application pipeline concept | Python, Apache Airflow, PostgreSQL, FastAPI, Anthropic API, Selenium |
 | **DevOps** | | |
 | [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments | ArgoCD, Bash |
 | [Observability](https://github.com/jackwaddington/jWorld-observability) | Cluster monitoring | Prometheus, Grafana |
