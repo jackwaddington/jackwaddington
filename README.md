@@ -23,6 +23,7 @@ Join me as I explore technologies through building my solutions!
 | [Smart Timelapse Pipeline](https://github.com/jackwaddington/smart-timelapse-pipeline) to [YouTube](https://www.youtube.com/@RoihuCam) | Daily sunrise-to-sunset timelapse, automatic publish to YouTube | C++, Python, Cron, Rsync |
 | [Moped API](https://github.com/jackwaddington/moped) | Google Forms → Django API pipeline for moped fuel data, with service notifications | Python, Django |
 | [Python School](https://github.com/jackwaddington/python_school) | Terminal simulation of a school — OOP model driven by a local LLM. Generates courses, students, exams and newsletters | Python, Ollama |
+| [RPS League](https://github.com/jackwaddington/rps-league) | Live Rock-Paper-Scissors leaderboard and match history dashboard | TypeScript, React, Fastify, SQLite, Docker |
 | [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server | Python, Ollama, Discord API |
 | [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content | Python, Apache Airflow, PostgreSQL, Docker |
 | **DevOps** | | |
