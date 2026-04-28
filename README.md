@@ -2,14 +2,12 @@
 
 While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
 
-Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM.
-
 I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
 
 Most recently I've been blown away by:
 - the power of modern computers (2025-> )
 - text-based data analysis by machine
-- text generation by a machine
+- EdgeAI to control graphics libraries
 
 I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
 
