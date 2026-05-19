@@ -2,14 +2,9 @@
 
 While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
 
-I enjoy asking: how can we record, transmit, store, process, validate and present data? And why would we even do that?!
+Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM — and [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — autonomous LLM characters debating in Discord, with [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) to analyse the output.
 
-Most recently I've been blown away by:
-- the power of modern computers (2025-> )
-- text-based data analysis by machine
-- EdgeAI to control graphics libraries
-
-I'm exploring these ideas with [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — creating data through autonomous LLM debate — and [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) — to analyse.
+That exploration has grown into something more systematic. I'm now building **AMC** (Agent Management Console) — a local Docker platform for running LLM workloads and testing them at scale. The questions I'm chasing: what can local models actually do? How reliable and consistent are they across many runs? What's the right model for a given task, and where does it break down? A web portal for accessing test results is in progress.
 
 Join me as I explore technologies through building my solutions!
 
@@ -24,6 +19,10 @@ Join me as I explore technologies through building my solutions!
 | [RPS League](https://github.com/jackwaddington/rps-league) | Live Rock-Paper-Scissors leaderboard and match history dashboard | TypeScript, React, Fastify, SQLite, Docker |
 | [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) | Autonomous LLM-powered characters debating in a Discord server | Python, Ollama, Discord API |
 | [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) | Text analysis and summarisation of LLM-generated debate content | Python, Apache Airflow, PostgreSQL, Docker |
+| **LLM Research** | | |
+| AMC — Agent Management Console | Docker platform for managing Ollama workloads and running systematic LLM tests | Python, Docker, Ollama, SQLite |
+| [amc-runner](https://github.com/jackwaddington/amc-runner) | Local GPU inference agent — polls SQS for jobs, runs them via Ollama, returns results to the cloud API | Go, Ollama, AWS SQS |
+| [amc-watchdog](https://github.com/jackwaddington/amc-watchdog) | Raspberry Pi daemon that monitors queue depth and wakes the GPU machine via Wake-on-LAN when jobs are waiting | Python, AWS SQS |
 | **DevOps** | | |
 | [GitOps](https://github.com/jackwaddington/homelab-gitops) | ArgoCD deployments | ArgoCD, Bash |
 | [Observability](https://github.com/jackwaddington/jWorld-observability) | Cluster monitoring | Prometheus, Grafana |
