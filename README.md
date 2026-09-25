@@ -2,9 +2,7 @@
 
 While I seek employment this is a great time to get all these projects out of my head and into the 'IRL'!
 
-Recently I've been working on [Python School](https://github.com/jackwaddington/python_school) — an OOP proof of concept driven by a local LLM — and [Discord_Philosopher](https://github.com/jackwaddington/discord_philosopher) — autonomous LLM characters debating in Discord, with [Discord_Airflow](https://github.com/jackwaddington/discord_airflow) to analyse the output.
-
-That exploration has grown into something more systematic. I'm now building **AMC** (Agent Management Console) — a local Docker platform for running LLM workloads and testing them at scale. The questions I'm chasing: what can local models actually do? How reliable and consistent are they across many runs? What's the right model for a given task, and where does it break down? A web portal for accessing test results is in progress.
+I'm have been building **AMC** (Agent Management Console) — a platform for running LLM workloads and testing them at scale. The questions I'm chasing: what can local models actually do? How reliable and consistent are they across many runs? What's the right model for a given task, and where does it break down?
 
 Join me as I explore technologies through building my solutions!
 
